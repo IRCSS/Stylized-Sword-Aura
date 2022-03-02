@@ -8,7 +8,7 @@ of the enite technique in this blog post: https://medium.com/@shahriyarshahrabi/
 ![screenshot](documentation/SwordAira.gif)
 
 
-Mesh used in the repo is from Arms Musuem: https://skfb.ly/JSts
+Mesh used in the repo is from Arms Museum: https://skfb.ly/JSts
 
 
 
